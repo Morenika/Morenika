@@ -45,6 +45,9 @@ CodeSpace Academy
 - Багаж тестировщика: техники тест-дизайна - https://stepik.org/
 - Проект Джуны: работала фулл-тайм в составе команды тестирования над образовательной платформой CodeSpace Academy и над мобильным приложением эко-магазина 4fresh.ru - https://bootcamp.juniors.qa/
 
+## Резюме
+- Ссылка: 
+
 ## Контакты
 - Email: romanova.ns@gmail.com
 - Telegram: MorenikaNS
