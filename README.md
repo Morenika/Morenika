@@ -38,10 +38,10 @@ CodeSpace Academy
 - Документирование багов и рекомендаций в GoogleDocs
 
 ## Обучение по тестированию
-WB Техношкола, курс Ручное тестирование https://tech.wildberries.ru/courses/manual-testing
-Тестирование ПО с нуля. Теория + Практика https://stepik.org/
-Интерактивный тренажер по SQL https://stepik.org/
-Багаж тестировщика: техники тест-дизайна https://stepik.org/
+- WB Техношкола, курс Ручное тестирование https://tech.wildberries.ru/courses/manual-testing
+- Тестирование ПО с нуля. Теория + Практика https://stepik.org/
+- Интерактивный тренажер по SQL https://stepik.org/
+- Багаж тестировщика: техники тест-дизайна https://stepik.org/
 
 ## Контакты
 - Email: romanova.ns@gmail.com
