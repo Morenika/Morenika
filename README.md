@@ -39,7 +39,6 @@ CodeSpace Academy
 
 ## Обучение по тестированию
 - WB Техношкола, курс Ручное тестирование - https://tech.wildberries.ru/courses/manual-testing
-  Сертификат об окончании [серт](https://github.com/Morenika/Morenika/blob/main/%D0%A1%D0%95%D0%A0%D0%A2%D0%98%D0%A4%D0%98%D0%9A%D0%90%D0%A2%20%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%20%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%20WB.pdf)
 - Тестирование ПО с нуля. Теория + Практика - https://stepik.org/
 - Интерактивный тренажер по SQL - https://stepik.org/
 - Багаж тестировщика: техники тест-дизайна - https://stepik.org/
