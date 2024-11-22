@@ -16,7 +16,7 @@
 ## Проекты
 WB Техношкола 
 - Тестирование сайта проекта WB Техношкола
-- Создание баг-репортов, тест-плана и [чек-листов](https://github.com/Morenika/CheckList), [чек-листов в miro] (https://miro.com/app/board/uXjVKziMS3E=/) и в Youtrack
+- Создание баг-репортов, тест-плана и [чек-листов](https://github.com/Morenika/CheckList), чек-листов в [miro](https://miro.com/app/board/uXjVKziMS3E=/) и в Youtrack
 - Проверка соответствия дизайну в Figma
 - Тестирование API через Postman
 
