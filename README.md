@@ -45,7 +45,7 @@ CodeSpace Academy
 - Проект Джуны: работала фулл-тайм в составе команды тестирования над образовательной платформой CodeSpace Academy и над мобильным приложением эко-магазина 4fresh.ru - https://bootcamp.juniors.qa/
 
 ## Резюме
-- Ссылка: 
+- На hh.ru: https://hh.ru/resume/67cf16d4ff0c975f1d0039ed1f457a4b794245
 
 ## Контакты
 - Email: romanova.ns@gmail.com
