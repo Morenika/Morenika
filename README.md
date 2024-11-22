@@ -14,7 +14,9 @@
 - Базовые знания SQL
 
 ## Примеры работ
-- Чек-лист проверок WB Техношколы на [git](https://github.com/Morenika/CheckList), global.wildberries.ru в [miro1](https://miro.com/app/board/uXjVKziMS3E=/) и приложения 4FRESH [miro2](https://miro.com/app/board/uXjVNH9PNEk=/)
+- Чек-лист проверок WB Техношколы на [git](https://github.com/Morenika/CheckList)
+- Чек-лист проверок global.wildberries.ru в [miro1](https://miro.com/app/board/uXjVKziMS3E=/)
+- Чек-лист проверок приложения 4FRESH в [miro2](https://miro.com/app/board/uXjVNH9PNEk=/)
 - [баг-репорты](https://github.com/Morenika/Bugreports)
 
 ## Проекты
