@@ -17,7 +17,7 @@
 - Чек-лист проверок [WB Техношколы](https://github.com/Morenika/CheckList)
 - Чек-лист проверок [global.wildberries.ru в Miro](https://miro.com/app/board/uXjVKziMS3E=/)
 - Чек-лист проверок [приложения 4FRESH в Miro](https://miro.com/app/board/uXjVNH9PNEk=/)
-- [баг-репорты сайта skillotron.com](https://github.com/Morenika/Bugreports)
+- [Баг-репорты сайта skillotron.com](https://github.com/Morenika/Bugreports)
 
 ## Проекты
 WB Техношкола 
